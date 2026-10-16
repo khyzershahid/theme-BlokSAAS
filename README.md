@@ -1,5 +1,3 @@
-Here is a clean, professional `README.md` template tailored for your **theme-BlokSAAS** repository. You can copy and paste this directly into your local `README.md` file.
-
 ```markdown
 # BlokSAAS Theme
 
